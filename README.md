@@ -14,13 +14,18 @@ Whether you need to time a workout, a cooking session, or any other activity, th
 - **Lap Time:** Record and view lap times during the timing session.
 - **Reset:** Reset the stopwatch to zero and start a new timing session.
 
+## Technologies
+- Foreground bound service
+- Notifications
+- Jetpack Compose
+- Compose Animation
+- Dependency Injection
 
 
 ## Issues
 
 If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/mahmoodawd/oibsip-whistle/issues) on the GitHub repository.
 
-## License
 
 ## Acknowledgments
 
