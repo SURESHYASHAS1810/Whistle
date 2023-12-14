@@ -310,7 +310,7 @@ fun MainPreview() {
                 seconds = "02",
                 millis = "88",
             ),
-            stopwatchState = StopwatchState.Stopped,
+            stopwatchState = StopwatchState.Idle,
             onStartClick = {},
             onStopClick = {},
             onResumeClick = {},

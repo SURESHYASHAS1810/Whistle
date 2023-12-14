@@ -12,7 +12,6 @@ import dev.awd.whistle.utils.Constants.RESET_REQUEST_CODE
 import dev.awd.whistle.utils.Constants.RESUME_REQUEST_CODE
 import dev.awd.whistle.utils.Constants.STOP_REQUEST_CODE
 
-
 object ServiceHelper {
 
     private const val flag =
